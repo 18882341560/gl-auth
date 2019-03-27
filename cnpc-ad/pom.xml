@@ -18,6 +18,7 @@
             <groupId>com.greelee</groupId>
             <artifactId>auth-common</artifactId>
         </dependency>
+
     </dependencies>
 
 

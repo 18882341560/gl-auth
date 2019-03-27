@@ -52,6 +52,17 @@
             <artifactId>guava</artifactId>
         </dependency>
 
+        <!--dom4j-->
+        <dependency>
+            <groupId>dom4j</groupId>
+            <artifactId>dom4j</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.github.pagehelper</groupId>
+            <artifactId>pagehelper</artifactId>
+        </dependency>
+
     </dependencies>
 
 </project>
